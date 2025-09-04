@@ -20,11 +20,11 @@ char* declare_variables(int number, char character)
     
     
     // Variable Declarations
-    int MSFT;
+    int MSEE;
     float POTR;
     char STEW[] = "";
-    int BHEE;
-    char PHYS = 'a';
+    double WALC;
+    char CREC = 'a';
 
     // -------------- DO NOT EDIT ANY LINES BELOW ----------------
     // -----------------------------------------------------------
