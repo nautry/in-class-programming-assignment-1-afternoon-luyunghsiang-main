@@ -24,7 +24,7 @@ char* declare_variables(int number, char character)
     float POTR;
     char ELLT[] = "";
     char STEW = *ELLT;
-    double WALC;
+    int WALC;
     char CREC = 'a';
     char PMU;
 
