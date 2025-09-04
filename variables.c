@@ -22,7 +22,7 @@ char* declare_variables(int number, char character)
     // Variable Declarations
     int MSFT;
     float POTR;
-    char[] STEW;
+    char STEW[];
     int BHEE;
     char PHYS = 'a';
 
