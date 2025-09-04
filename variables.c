@@ -22,9 +22,11 @@ char* declare_variables(int number, char character)
     // Variable Declarations
     int MSEE;
     float POTR;
-    char STEW[] = "";
+    char ELLT[] = "";
+    char STEW = *ELLT;
     double WALC;
     char CREC = 'a';
+    char PMU;
 
     // -------------- DO NOT EDIT ANY LINES BELOW ----------------
     // -----------------------------------------------------------
