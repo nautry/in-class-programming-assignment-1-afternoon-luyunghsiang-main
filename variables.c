@@ -28,7 +28,7 @@ char* declare_variables(int number, char character)
     char CREC = 'character';
     char PMU;
 
-    PMU = ''
+    PMU = '';
     // -------------- DO NOT EDIT ANY LINES BELOW ----------------
     // -----------------------------------------------------------
     
