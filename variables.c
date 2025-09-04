@@ -22,12 +22,13 @@ char* declare_variables(int number, char character)
     // Variable Declarations
     int MSEE;
     float POTR;
-    char ELLT[] = "Chase The River";
+    char ELLT[] = "";
     char STEW[] = "";
     int WALC;
-    char CREC = 'character';
+    char CREC = '';
     char PMU;
 
+    ELLT[] = "Chase The River";
     PMU = '';
     // -------------- DO NOT EDIT ANY LINES BELOW ----------------
     // -----------------------------------------------------------
